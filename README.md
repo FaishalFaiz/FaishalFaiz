@@ -4,7 +4,7 @@
 ## 🚀 About Me
 - 🌱 Currently learning **Web Development & ReactJS**
 - 🎯 Student & Tech Anthusiast
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/faishalfn/) | [Email](#)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/faishalfn/) | [Email](mailto:faishalnugrohofaiz@gmail.com)
 
 ## 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,4 +17,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faishalfn/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faishalnugrohofaiz@gmail.com)
 
+## 📚 Featured Projects
 [![BayFint Laravel Payroll Service](https://github-readme-stats.vercel.app/api/pin/?username=FaishalFaiz&repo=BayFint-Laravel-Payroll-Service)](https://github.com/FaishalFaiz/BayFint-Laravel-Payroll-Service)
