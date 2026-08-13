@@ -16,3 +16,5 @@
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faishalfn/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faishalnugrohofaiz@gmail.com)
+
+[![My Repo Card](https://faishalfn.vercel.app/)](https://github.com/FaishalFaiz/BayFint-Laravel-Payroll-Service)
